@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterListener", "SignalRListenerSample\ConverterListener.csproj", "{964758B2-D7B3-45DE-9D97-1C63E086C890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964758B2-D7B3-45DE-9D97-1C63E086C890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964758B2-D7B3-45DE-9D97-1C63E086C890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964758B2-D7B3-45DE-9D97-1C63E086C890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964758B2-D7B3-45DE-9D97-1C63E086C890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {252D6A1C-63E4-48FF-AAA2-B744244B1EA9}
+	EndGlobalSection
+EndGlobal
